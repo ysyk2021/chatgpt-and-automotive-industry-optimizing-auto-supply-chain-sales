@@ -1,5 +1,3 @@
-Different Types of Businesses in Automotive Industry
-==============================================================================================
 
 The automotive industry plays a crucial role in our modern society, providing transportation solutions and driving economic growth. From vehicle manufacturing to sales and distribution, numerous businesses operate within this dynamic industry. In this chapter, we will explore the basics of the automotive industry, focusing on the different types of businesses involved and their specific roles within the supply chain.
 

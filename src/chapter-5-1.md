@@ -1,5 +1,3 @@
-What is ChatGPT?
-==================================================
 
 In this chapter, we will provide an overview of what ChatGPT is and how it works. This will allow businesses to better understand the potential benefits of using ChatGPT for optimizing their supply chain and sales operations in the automotive industry.
 

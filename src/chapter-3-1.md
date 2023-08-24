@@ -1,5 +1,3 @@
-Factors Affecting Automotive Industry
-===================================================================================
 
 The automotive industry is facing a variety of challenges that are impacting both supply chain and sales operations. In this chapter, we will explore the factors affecting the automotive industry.
 

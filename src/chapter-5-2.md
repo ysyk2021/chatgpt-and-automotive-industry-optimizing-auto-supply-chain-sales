@@ -1,5 +1,3 @@
-Features and Capabilities of ChatGPT
-======================================================================
 
 In this chapter, we will explore the features and capabilities of ChatGPT. This will allow businesses to better understand how ChatGPT can be used to optimize their supply chain and sales operations in the automotive industry.
 

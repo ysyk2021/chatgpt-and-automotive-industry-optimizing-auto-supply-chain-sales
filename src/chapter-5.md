@@ -1,5 +1,3 @@
-Chapter 4: Understanding ChatGPT
-================================
 
 In this chapter, we will explore what ChatGPT is, its features and capabilities, and how it can be used to optimize auto supply chain and sales.
 

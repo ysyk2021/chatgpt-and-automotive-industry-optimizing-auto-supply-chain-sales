@@ -1,5 +1,3 @@
-Definition of Automotive Industry
-===========================================================================
 
 The automotive industry is a global industry that includes the design, development, manufacture, marketing, and sale of motor vehicles. This includes cars, trucks, buses, motorcycles, and other vehicles. The industry is focused on meeting the transportation needs of individuals and businesses, and is a significant contributor to the global economy.
 

@@ -27,6 +27,5 @@
 - [Chapter 6: Future of Automotive Industry with ChatGPT](chapter-7.md)
   - [Potential advancements in automotive industry with ChatGPT](chapter-7-1.md)
   - [Emerging trends and challenges in automotive industry and ChatGPT](chapter-7-2.md)
-  - [Conclusion and future outlook](chapter-7-3.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)

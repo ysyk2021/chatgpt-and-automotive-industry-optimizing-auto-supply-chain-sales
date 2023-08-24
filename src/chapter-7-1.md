@@ -1,5 +1,3 @@
-Potential advancements in automotive industry with ChatGPT
-=================================================================================================================
 
 In this chapter, we will explore the potential advancements in the automotive industry with ChatGPT. As technology continues to evolve, we will see even greater opportunities for chatbots like ChatGPT to transform the way businesses operate and shape the future of transportation.
 

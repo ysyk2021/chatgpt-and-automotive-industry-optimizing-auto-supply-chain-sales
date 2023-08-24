@@ -1,5 +1,3 @@
-Chapter 3: The Role of AI and Chatbots in Automotive Industry
-=============================================================
 
 In this chapter, we will explore the role of AI and chatbots in the automotive industry, including their introduction, how they can improve supply chain management and sales, and the benefits of using them.
 

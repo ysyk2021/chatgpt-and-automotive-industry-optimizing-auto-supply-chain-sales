@@ -1,5 +1,3 @@
-Introduction to AI and Chatbots
-==============================================================================================
 
 Artificial intelligence (AI) and chatbots have emerged as powerful tools for improving efficiency and enhancing customer experience in various industries, including the automotive industry. In this chapter, we will provide an introduction to AI and chatbots and their role in the automotive industry.
 

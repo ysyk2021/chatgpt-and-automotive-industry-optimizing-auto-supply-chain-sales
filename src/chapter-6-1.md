@@ -1,5 +1,3 @@
-Steps to implement ChatGPT in automotive industry
-=========================================================================================================
 
 In this chapter, we will discuss the steps involved in implementing ChatGPT in the automotive industry. By following these steps, businesses can successfully integrate ChatGPT into their operations and optimize their supply chain and sales operations.
 

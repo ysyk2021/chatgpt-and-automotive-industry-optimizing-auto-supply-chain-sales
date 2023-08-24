@@ -1,5 +1,3 @@
-How AI and Chatbots can Improve Supply Chain Management and Sales
-================================================================================================================================
 
 The automotive industry is facing unprecedented challenges, from supply chain disruptions to changing consumer preferences. In this chapter, we will explore how AI and chatbots like ChatGPT can be used to improve supply chain management and sales in the automotive industry.
 

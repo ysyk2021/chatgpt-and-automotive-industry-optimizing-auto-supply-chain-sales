@@ -1,5 +1,3 @@
-Chapter 6: Future of Automotive Industry with ChatGPT
-=====================================================
 
 In this final chapter, we will look at the future of the automotive industry with ChatGPT. We will examine potential advancements that are likely to occur as well as emerging trends and challenges that businesses may face.
 

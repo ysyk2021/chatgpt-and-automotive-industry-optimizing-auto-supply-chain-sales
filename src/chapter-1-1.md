@@ -1,5 +1,3 @@
-Overview of the Book
-==================================
 
 In this book, we will explore the use of AI-powered chatbots like ChatGPT to optimize auto supply chain and sales operations in the automotive industry. We will begin by providing an overview of the automotive industry, including its definition and the different types of businesses involved.
 

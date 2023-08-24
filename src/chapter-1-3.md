@@ -1,5 +1,3 @@
-The Role of ChatGPT in Optimizing Auto Supply Chain and Sales
-===========================================================================
 
 The automotive industry is facing a variety of challenges that are impacting both supply chain and sales operations. The need for optimization and efficiency has become more crucial than ever before. In this book, we will explore the use of AI-powered chatbots like ChatGPT to address these challenges and optimize auto supply chain and sales.
 

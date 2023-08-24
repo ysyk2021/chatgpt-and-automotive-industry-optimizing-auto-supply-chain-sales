@@ -1,5 +1,3 @@
-Importance of Supply Chain Optimization and Sales Management
-======================================================================================================
 
 In this chapter, we will provide an overview of the automotive industry and discuss the importance of supply chain optimization and sales management.
 

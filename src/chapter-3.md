@@ -1,5 +1,3 @@
-Chapter 2: Challenges in Automotive Industry
-============================================
 
 The automotive industry is facing a variety of challenges that are impacting both supply chain and sales operations. In this chapter, we will explore the factors affecting the automotive industry, common challenges faced by businesses, and the impact of these challenges on supply chain and sales.
 

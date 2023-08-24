@@ -1,5 +1,3 @@
-Explanation of Automotive Industry and Its Importance
-===================================================================
 
 The automotive industry is a global industry that designs, develops, manufactures, markets, and sells motor vehicles. It is a vital component of the global economy and is responsible for providing transportation solutions to individuals and businesses around the world.
 

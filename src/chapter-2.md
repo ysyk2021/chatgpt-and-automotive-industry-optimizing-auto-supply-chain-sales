@@ -1,5 +1,3 @@
-Chapter 1: Basics of Automotive Industry
-========================================
 
 In this chapter, we will provide an overview of the automotive industry, including its definition, different types of businesses involved, and the importance of supply chain optimization and sales management.
 

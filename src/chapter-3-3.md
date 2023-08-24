@@ -1,5 +1,3 @@
-Impact of These Challenges on Supply Chain and Sales
-==================================================================================================
 
 The automotive industry is facing unprecedented challenges that are impacting both supply chain and sales operations. In this chapter, we will explore these challenges and their impact on the automotive industry.
 

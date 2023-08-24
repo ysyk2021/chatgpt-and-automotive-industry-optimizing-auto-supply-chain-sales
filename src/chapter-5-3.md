@@ -1,5 +1,3 @@
-How ChatGPT can be used for optimizing auto supply chain and sales
-====================================================================================================
 
 ChatGPT is an AI-powered chatbot developed by OpenAI that uses natural language processing to generate human-like responses to text prompts. In this chapter, we will explore how ChatGPT can be used to optimize auto supply chain and sales operations in the automotive industry.
 
