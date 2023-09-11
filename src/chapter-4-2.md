@@ -1,5 +1,4 @@
-Chapter: How AI and Chatbots Can Improve Supply Chain Management and Sales
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the ways in which AI and chatbots can revolutionize supply chain management and sales processes within the automotive industry. From demand forecasting to inventory optimization and customer engagement, AI-powered chatbots offer significant improvements that enhance efficiency and drive sales.
 

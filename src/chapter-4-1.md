@@ -1,5 +1,4 @@
-Chapter: Introduction to AI and Chatbots
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the automotive industry, the use of AI and chatbots has become increasingly prevalent, revolutionizing various aspects of the business, including optimizing auto supply chain sales. This chapter provides an introduction to AI and chatbots, explaining their concepts, capabilities, and benefits in the automotive industry.
 

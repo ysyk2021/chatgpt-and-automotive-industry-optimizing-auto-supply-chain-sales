@@ -1,5 +1,4 @@
-Chapter: Impact of These Challenges on Supply Chain and Sales
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The automotive industry is facing numerous challenges that have a significant impact on both the supply chain and sales processes. In this chapter, we will explore how these challenges affect the industry and discuss potential strategies to mitigate their impact.
 

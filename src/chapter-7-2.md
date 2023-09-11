@@ -1,5 +1,4 @@
-Chapter: Emerging Trends and Challenges in Automotive Industry and ChatGPT
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The automotive industry is undergoing significant changes, driven by rapid advances in technology and shifting consumer preferences. The integration of ChatGPT into the automotive supply chain and sales processes brings its own set of emerging trends and challenges. This chapter explores some of the notable trends and challenges in both the automotive industry and ChatGPT.
 

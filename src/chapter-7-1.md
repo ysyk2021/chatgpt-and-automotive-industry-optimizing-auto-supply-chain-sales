@@ -1,5 +1,4 @@
-Chapter: Potential Advancements in the Automotive Industry with ChatGPT
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In recent years, the automotive industry has witnessed significant advancements in technology, and the integration of AI-powered language models like ChatGPT holds tremendous potential for further advancements. This chapter explores some of the potential applications and advancements that can be achieved by leveraging ChatGPT within the automotive industry.
 

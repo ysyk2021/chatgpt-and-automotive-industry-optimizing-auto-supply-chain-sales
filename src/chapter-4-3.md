@@ -1,5 +1,4 @@
-Chapter: Benefits of Using AI and Chatbots for the Automotive Industry
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 AI technology, including chatbots, has revolutionized various industries, and the automotive sector is no exception. In this chapter, we will explore the numerous benefits that AI and chatbots offer to optimize auto supply chain sales in the automotive industry.
 

@@ -1,5 +1,4 @@
-Chapter: Features and Capabilities of ChatGPT
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, an advanced AI-powered language model, offers a wide range of features and capabilities that make it a valuable tool for optimizing the auto supply chain and sales processes within the automotive industry. This chapter explores some of the key features and capabilities that make ChatGPT highly effective in various applications.
 

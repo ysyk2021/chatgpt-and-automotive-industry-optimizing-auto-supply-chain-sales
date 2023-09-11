@@ -1,5 +1,4 @@
-Chapter: Factors Affecting the Automotive Industry
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The automotive industry is influenced by various internal and external factors that have a significant impact on its ability to optimize auto supply chain and sales processes. In this chapter, we will explore some of the key factors that shape the industry and discuss their implications.
 

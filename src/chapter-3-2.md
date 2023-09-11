@@ -1,5 +1,4 @@
-Chapter: Common Challenges Faced by Businesses
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The automotive industry faces various challenges that can impact the optimization of auto supply chain and sales processes. In this chapter, we will discuss some of the common challenges businesses encounter and explore ways to address them effectively.
 

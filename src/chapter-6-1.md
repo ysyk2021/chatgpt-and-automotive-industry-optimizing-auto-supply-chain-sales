@@ -1,5 +1,4 @@
-Chapter: Steps to Implement ChatGPT in the Automotive Industry
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will outline the steps involved in implementing ChatGPT in the automotive industry to optimize auto supply chain sales. These steps provide a guideline for automotive businesses looking to leverage AI-powered chatbots for improved customer interactions and streamlined sales processes.
 

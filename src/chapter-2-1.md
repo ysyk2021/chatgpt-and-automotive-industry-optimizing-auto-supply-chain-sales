@@ -1,5 +1,4 @@
-Chapter: Definition of the Automotive Industry
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The automotive industry is a vast and multifaceted sector that encompasses the design, production, sales, and maintenance of vehicles. It plays a crucial role in the global economy, contributing to employment, technological advancement, and transportation infrastructure development. In this chapter, we will delve into the definition of the automotive industry, its key components, and its significance in today's society.
 

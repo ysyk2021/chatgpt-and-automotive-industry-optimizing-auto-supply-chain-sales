@@ -1,5 +1,4 @@
-Chapter: Overview of the Book
-=============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The automotive industry is rapidly evolving, with new technologies and consumer preferences driving changes in supply chain and sales processes. ChatGPT, an advanced AI language model, presents new opportunities to optimize operations in the industry.
 

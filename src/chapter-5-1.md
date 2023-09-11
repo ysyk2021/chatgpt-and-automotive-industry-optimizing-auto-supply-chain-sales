@@ -1,5 +1,4 @@
-Chapter: What is ChatGPT?
-=========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT is an advanced AI language model developed by OpenAI. It leverages the power of deep learning techniques, specifically based on the GPT (Generative Pre-trained Transformer) architecture. ChatGPT enables natural language understanding and generation, making it a valuable tool for optimizing the auto supply chain and sales processes within the automotive industry.
 

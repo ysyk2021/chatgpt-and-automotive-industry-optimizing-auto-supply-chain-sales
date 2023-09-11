@@ -1,5 +1,4 @@
-Chapter: How ChatGPT Can Be Used for Optimizing Auto Supply Chain and Sales
-===========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In recent years, the automotive industry has witnessed significant advancements in technology, leading to the emergence of new opportunities and challenges. One such development is the application of ChatGPT, an AI-powered language model, in optimizing the auto supply chain and sales processes. This chapter explores how ChatGPT can be utilized to improve efficiency, enhance customer experiences, and drive growth within the automotive industry.
 

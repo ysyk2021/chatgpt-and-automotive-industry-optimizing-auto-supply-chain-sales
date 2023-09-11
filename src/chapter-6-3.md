@@ -1,5 +1,4 @@
-Chapter: Case Studies of Automotive Businesses that have Successfully Implemented ChatGPT in their Services
-===========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore case studies of automotive businesses that have successfully implemented ChatGPT in their services to optimize auto supply chain sales. These real-world examples demonstrate the effectiveness of using AI-powered chatbots in the automotive industry.
 
